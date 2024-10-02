@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\bin\Debug\net8.0\Exercise.DAL.deps.json
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\bin\Debug\net8.0\Exercise.DAL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\bin\Debug\net8.0\Exercise.DAL.pdb
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\bin\Debug\net8.0\Exercise.BLL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\bin\Debug\net8.0\Exercise.BLL.pdb
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.sourcelink.json
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.08C229C7.Up2Date
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\refint\Exercise.DAL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\Exercise.DAL.pdb
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.DAL\obj\Debug\net8.0\ref\Exercise.DAL.dll

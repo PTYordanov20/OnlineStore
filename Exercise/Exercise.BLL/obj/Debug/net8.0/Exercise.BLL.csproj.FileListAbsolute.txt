@@ -1,0 +1,12 @@
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\bin\Debug\net8.0\Exercise.BLL.deps.json
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\bin\Debug\net8.0\Exercise.BLL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\bin\Debug\net8.0\Exercise.BLL.pdb
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.sourcelink.json
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\refint\Exercise.BLL.dll
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\Exercise.BLL.pdb
+C:\Users\User\RiderProjects\OnlineStore\Exercise\Exercise.BLL\obj\Debug\net8.0\ref\Exercise.BLL.dll
