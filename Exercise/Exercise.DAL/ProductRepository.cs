@@ -6,7 +6,6 @@ namespace Exercise.DAL
     {
         public static Product GetProduct(string productName)
         {
-            // Simulate fetching a product from a data store.
             if (productName == "Laptop")
             {
                 return new PhysicalProduct("Laptop", 1000m, 10);
